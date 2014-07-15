@@ -4,7 +4,6 @@
 DWalkSetup.py
 
 Created by Kevin Françoisse on 2009-03-27.
-Copyright (c) 2009 __MyCompanyName__. All rights reserved.
 
 Launcher : python DWalkSetup.py build
 """

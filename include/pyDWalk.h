@@ -1,5 +1,6 @@
 /*************************************************************************/
-/* Author      : Kevin Françoisse (kfrancoi@gmail.com)                   */
+/* Author      : 	Jerome Callut (jcallut@gmail.com)                    */
+/*					Kevin Françoisse (kfrancoi@gmail.com)				 */
 /* Version     : 1.00                                                    */
 /* Modified    : 29/03/2009                                              */
 /*************************************************************************/
